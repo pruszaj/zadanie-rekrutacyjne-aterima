@@ -1,0 +1,7 @@
+[
+  {"id": 101, "brand": "Balaton Work",  "is_closed": false, "updated_at": "2026-05-01 10:00:00"},
+  {"id": 102, "brand": "Kampinos Care", "is_closed": false, "updated_at": "2026-05-02 11:00:00"},
+  {"id": 103, "brand": "Triglav Group", "is_closed": true,  "updated_at": "2026-06-01 09:00:00"},
+  {"id": 104, "brand": "Vistula HR",    "is_closed": false, "updated_at": "2026-04-01 08:00:00"},
+  {"id": 105, "brand": "Tabernas Med",  "is_closed": false, "updated_at": "2026-03-01 08:00:00"}
+]
